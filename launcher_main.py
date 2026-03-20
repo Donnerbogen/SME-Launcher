@@ -3,7 +3,7 @@ from tkinter import simpledialog, messagebox
 import subprocess, ctypes, requests, tempfile, winreg
 
 API = "https://DEIN_RENDER_SERVER.onrender.com"
-APPS = "https://DEIN_NETLIFY.netlify.app/apps/"
+APPS = "https://app.netlify.com/projects/sme-launcher/overview/apps/"
 
 BG="#1e1e1e"; FG="#fff"; BTN="#2d2d2d"
 ADMIN_PASSWORD="admin123"
